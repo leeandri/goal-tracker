@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/goal-tracker/static/css/main.0910f06a.chunk.css",
+    "main.js": "/goal-tracker/static/js/main.632ff3d9.chunk.js",
+    "main.js.map": "/goal-tracker/static/js/main.632ff3d9.chunk.js.map",
+    "runtime~main.js": "/goal-tracker/static/js/runtime~main.3e6f99f9.js",
+    "runtime~main.js.map": "/goal-tracker/static/js/runtime~main.3e6f99f9.js.map",
+    "static/js/2.810a3ca9.chunk.js": "/goal-tracker/static/js/2.810a3ca9.chunk.js",
+    "static/js/2.810a3ca9.chunk.js.map": "/goal-tracker/static/js/2.810a3ca9.chunk.js.map",
+    "index.html": "/goal-tracker/index.html",
+    "precache-manifest.2d47cad992762129423c5e56cb3315f8.js": "/goal-tracker/precache-manifest.2d47cad992762129423c5e56cb3315f8.js",
+    "service-worker.js": "/goal-tracker/service-worker.js",
+    "static/css/main.0910f06a.chunk.css.map": "/goal-tracker/static/css/main.0910f06a.chunk.css.map"
+  }
+}
